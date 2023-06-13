@@ -2,7 +2,7 @@ const btnMobile = document.getElementById('btn-mobile')
 
 function alternarMenu(){
     const nav = document.getElementById('nav')
-    imgbtn = document.getElementById('img')
+    const imgbtn = document.getElementById('img')
     nav.classList.toggle('aberto')
 
 
